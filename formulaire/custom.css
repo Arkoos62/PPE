@@ -1,0 +1,128 @@
+/* tous les supports */
+.page-inscription h1{font-size:30px;margin-bottom:20px;border:solid grey;background-color:grey;text-align: center;}
+
+.page-inscription{margin-bottom:20px;}
+
+.page-inscription{margin-top: 20px;}
+
+
+
+/* desktop */
+@media(min-width:1024px){
+    .page-inscription{margin-left:25%;margin-right:25%;}
+}
+
+/* tablette vert. - small */
+@media(max-width:768px) AND (min-width:600px){
+    .page-inscription{margin-left:10%;margin-right:10%;}
+}
+
+/*tous les supports*/
+.page-profil h1{font-size:30px;margin-bottom:20px;border:solid grey;background-color:grey;text-align: center;}
+
+.page-profil{margin-bottom:20px;margin-top: 20px;}
+
+
+
+
+/* desktop */
+@media(min-width:1024px){
+    .page-profil{margin-left:25%;margin-right:25%;}
+}
+
+/* tablette vert. - small */
+@media(max-width:768px) AND (min-width:600px){
+    .page-profil{margin-left:10%;margin-right:10%;}
+}
+
+/*tous les supports*/
+.page-modifier-profil h1{font-size:30px;margin-bottom:20px;border:solid grey;background-color:grey;text-align: center;}
+
+.page-modifier-profil{margin-bottom:20px;margin-top: 20px;}
+
+
+
+
+/* desktop */
+@media(min-width:1024px){
+    .page-modifier-profil{margin-left:25%;margin-right:25%;}
+}
+
+/* tablette vert. - small */
+@media(max-width:768px) AND (min-width:600px){
+    .page-modifier-profil{margin-left:10%;margin-right:10%;}}
+
+/*tous les supports*/
+.page-connexion h1{font-size:30px;margin-bottom:20px;border:solid grey;background-color:grey;text-align: center;}
+
+.page-connexion{margin-bottom:20px;margin-top: 20px;}
+
+
+
+
+/* desktop */
+@media(min-width:1024px){
+    .page-connexion{margin-left:25%;margin-right:25%;}
+}
+
+/* tablette vert. - small */
+@media(max-width:768px) AND (min-width:600px){
+    .page-connexion{margin-left:10%;margin-right:10%;}}
+
+
+/*tous les supports*/
+.page-motdepasse h1{font-size:30px;margin-bottom:20px;border:solid grey;background-color:grey;text-align: center;}
+
+.page-motdepasse{margin-bottom:20px;margin-top: 20px;}
+
+
+
+
+/* desktop */
+@media(min-width:1024px){
+    .page-motdepasse{margin-left:25%;margin-right:25%;}
+}
+
+/* tablette vert. - small */
+@media(max-width:768px) AND (min-width:600px){
+    .page-motdepasse{margin-left:10%;margin-right:10%;}}
+
+
+/*tous les supports*/
+.page-contact h1{font-size:30px;margin-bottom:20px;border:solid grey;background-color:grey;text-align: center;}
+
+.page-contact{margin-bottom:20px;margin-top: 20px;}
+
+
+
+
+/* desktop */
+@media(min-width:1024px){
+    .page-contact{margin-left:25%;margin-right:25%;}
+}
+
+/* tablette vert. - small */
+@media(max-width:768px) AND (min-width:600px){
+    .page-contact{margin-left:10%;margin-right:10%;}}
+
+
+/*tous les supports*/
+.page-mentions h1{font-size:30px;margin-bottom:20px;border:solid grey;background-color:grey;text-align: center;}
+
+.page-mentions{margin-bottom:20px;margin-top: 20px;}
+
+
+
+
+/* desktop */
+@media(min-width:1024px){
+    .page-mentions{margin-left:25%;margin-right:25%;}
+}
+
+/* tablette vert. - small */
+@media(max-width:768px) AND (min-width:600px){
+    .page-mentions{margin-left:10%;margin-right:10%;}}
+
+.header{background: palevioletred;}
+.footer{background: palevioletred;}
+.carousel{margin-left:10%;margin-right:10%;padding-top:1%;padding-bottom:2%;}
